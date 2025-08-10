@@ -1,4 +1,5 @@
 streamlit
+seaborn
 pandas
 numpy
 matplotlib
@@ -11,4 +12,4 @@ wordcloud
 openpyxl
 xlrd
 xlsxwriter
-seaborn
+
