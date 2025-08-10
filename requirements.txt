@@ -11,3 +11,4 @@ wordcloud
 openpyxl
 xlrd
 xlsxwriter
+seaborn
