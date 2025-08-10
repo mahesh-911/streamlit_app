@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+scikit-learn
+tensorflow
+transformers
+torch
+wordcloud
+openpyxl
+xlrd
+xlsxwriter
